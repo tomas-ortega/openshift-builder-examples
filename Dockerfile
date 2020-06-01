@@ -1,4 +1,4 @@
-FROM centos/nginx-112-centos7
+FROM centos/nginx-112-centos7:1.12
 
 USER default
 EXPOSE 80
