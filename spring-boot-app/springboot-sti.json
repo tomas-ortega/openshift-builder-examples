@@ -218,7 +218,7 @@
 
                "name": "APPLICATION_NAME",
 
-               "value": "helloworld-gradle",
+               "value": "spring-boot-app",
 
                "displayName": "Application name",
 
